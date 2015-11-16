@@ -24,3 +24,14 @@ $('.owl-carousel').owlCarousel({
 			mouseDrag:true
 
 	})
+	// collagePlus-ify it!
+  $('.Collage').collagePlus({
+	'allowPartialLastRow' : false,
+	'direction': 'horizontal',
+	'targetHeight'    : 800
+}
+
+	);
+
+
+$("#mygallery").justifiedGallery();
