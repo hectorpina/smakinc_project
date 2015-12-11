@@ -1,0 +1,230 @@
+img.wp-smiley,
+img.emoji {
+  display: inline !important;
+  border: none !important;
+  box-shadow: none !important;
+  height: 1em !important;
+  width: 1em !important;
+  margin: 0 .07em !important;
+  vertical-align: -0.1em !important;
+  background: none !important;
+  padding: 0 !important;
+}
+
+
+/*Custom CSS*/
+
+  .cosmo-team-member .featimg{ margin-bottom: 30px; }
+.page-id-182 .below-page-content .widget-title, .page-id-182 .below-page-content  .button-title-link,
+.page-id-102 .below-page-content .widget-title, .page-id-445 .below-page-content .widget-title, .page-id-102 .below-page-content  .button-title-link, .page-id-445 .below-page-content .button-title-link { text-align: center; width: 100%; display: block;}
+
+.page-id-445 .footer-top-inner{ display: none; }
+
+.primary-navigation .nav-menu  .children  a{ font-size: 11px; }
+
+/*for home page 4 images*/
+
+ .home-brands .columns{ margin-top: 60px; }
+
+@media only screen and (max-width: 1023px){
+ .home-brands{ text-align:center; }
+}
+@media only screen and (min-width: 1024px){
+.large-align-left { text-align: left; }
+
+.large-align-right { text-align: right; }
+
+.large-align-center { text-align: center; }
+}
+
+/* iPad 1 issue resolved */
+@media screen and (orientation:landscape) and (max-width:1024px){
+ .main-content .row {
+    width: 100%;
+    max-width: none;
+    background-color: #fff;
+}
+}
+
+.contact-block.contact-social {
+display: none;
+}
+
+@media only screen and (min-width: 40.063em){
+.contact-form-three .contact-email, .contact-form-three .contact-phone, .contact-form-three .contact-social {
+float: left;
+width: 49.9%;
+margin-bottom: 0;
+}
+}
+
+            #gallery-slider .royalSlider, #full-width-slider .bx-wrapper{
+        max-height: 550px;
+      }
+
+      .flo-slick-slider{
+                    height: 550px;
+                }
+
+
+
+                      .flo-slick-slider .slick-slide{
+                    padding: 0px 1px;
+                }
+
+
+  @media only screen and (max-width: 640px)
+  {
+    #gallery-slider .royalSlider, #full-width-slider .bx-wrapper
+    {
+      max-width: 550px;
+    }
+
+                .full-width-slider .bx-viewport{
+          height: 390px !important;
+        }
+
+          .flo-slick-slider{
+                        height: 390px;
+                    }
+          }
+   .primary-navigation .nav-menu a, .menu-one-column.logo-left .primary-navigation li a, .menu-one-column.logo-right .primary-navigation li a{  font-size:14px;  font-weight:normal;  font-style:normal; }  .menu-toggle i:before, .menu-toggle span{  font-size:22px;  font-weight:normal;  font-style:normal; }  .slide-content .post-title .slide-title{  font-size:21px;  font-weight:normal;  font-style:normal; }  .slide-content .post-title .post-title-after{  font-size:34px;  font-weight:normal;  font-style:normal; }  .site-logo h1.site-title a, .site-title, .nav-menu .site-title{  font-size:29px;  font-weight:normal;  font-style:normal; }  h1{  font-size:34px;  font-weight:normal;  font-style:normal; }  h2,h2.post-title{  font-size:27px;  font-weight:normal;  font-style:normal; }  h3, h3.post-title{  font-size:14px;  font-weight:normal;  font-style:normal; }  h4{  font-size:12px;  font-weight:normal;  font-style:normal; }  h5{  font-size:18px;  font-weight:normal;  font-style:normal; }  h6{  font-size:16px;  font-weight:normal;  font-style:normal; }  body, p, span, #content-sidebar ul li a, ul{  font-size:13px;  font-weight:normal;  font-style:normal; }  .post-title-before{  font-size:12px;  font-weight:normal;  font-style:normal; }  .post-title .post-title-after{  font-size:13px;  font-weight:normal;  font-style:normal; }  .post-note, .post-comment, .post-tag-entry, .post-tag span, .post-tag a, .share-link, .comment-item, .social-text{  font-size:10px;  font-weight:normal;  font-style:normal; }  .post-date a .post-date, .post-category a{  font-size:13px;  font-weight:normal;  font-style:normal; }  .pagination span, .pagination a{  font-size:13px;  font-weight:normal;  font-style:normal; }  input[type="text"], input[type="password"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="month"],
+            input[type="week"], input[type="email"], input[type="number"], input[type="search"], input[type="tel"], input[type="time"], input[type="url"], textarea{  font-size:10px;  font-weight:normal;  font-style:normal; }  .widget-title{  font-size:13px;  font-weight:normal;  font-style:normal; }  .button-title-link, .button-title-link span{  font-size:13px;  font-weight:normal;  font-style:normal; }  .footer-bottom, .footer-bottom a, .footer-bottom span, .footer-bottom p, .footer-bottom div, .footer-bottom span{  font-size:10px;  font-weight:normal;  font-style:normal; }  .mosaic-description{  font-size:13px;  font-weight:normal;  font-style:normal; }  .mosaic-title{  font-size:20px;  font-weight:normal;  font-style:normal; } @media only screen and (max-width: 768px) { .primary-navigation .nav-menu a, .menu-one-column.logo-left .primary-navigation li a, .menu-one-column.logo-right .primary-navigation li a{  font-size:14px; }  .menu-toggle i:before, .menu-toggle span{  font-size:22px; }  .slide-content .post-title .slide-title{  font-size:21px; }  .slide-content .post-title .post-title-after{  font-size:24px; }  .site-logo h1.site-title a, .site-title, .nav-menu .site-title{  font-size:29px; }  h1{  font-size:24px; }  h2,h2.post-title{  font-size:24px; }  h3, h3.post-title{  font-size:14px; }  h4{  font-size:12px; }  h5{  font-size:16px; }  h6{  font-size:14px; }  body, p, span, #content-sidebar ul li a, ul{  font-size:13px; }  .post-title-before{  font-size:12px; }  .post-title .post-title-after{  font-size:13px; }  .post-note, .post-comment, .post-tag-entry, .post-tag span, .post-tag a, .share-link, .comment-item, .social-text{  font-size:10px; }  .post-date a .post-date, .post-category a{  font-size:13px; }  .pagination span, .pagination a{  font-size:13px; }  input[type="text"], input[type="password"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="month"],
+            input[type="week"], input[type="email"], input[type="number"], input[type="search"], input[type="tel"], input[type="time"], input[type="url"], textarea{  font-size:10px; }  .widget-title{  font-size:13px; }  .button-title-link, .button-title-link span{  font-size:13px; }  .footer-bottom, .footer-bottom a, .footer-bottom span, .footer-bottom p, .footer-bottom div, .footer-bottom span{  font-size:10px; }  .mosaic-description{  font-size:13px; }  .mosaic-title{  font-size:20px; } }
+        .row{ max-width: 1130px; }	/*max site content width*/
+
+              @media only screen and (max-width: 600px)
+  {
+    .site-logo .logo img
+    {
+      width: 200px;
+    }
+  }
+
+
+        .single div.post-content a img, body img.alignleft, body img.alignright, body img.aligncenter, body img.alignnone
+  {
+    margin-bottom: 8px;
+  }
+
+            @media only screen and (min-width: 1230px){
+        .header_style1 .nav-menu>li:not(:last-child){
+          margin-right: 275.17px						}
+      }
+          /* fix for the menu items distance if the screen width is smaller that the site content width */
+    @media only screen and (min-width: 641px) and (max-width: 1230px){
+      .header_style1 .nav-menu>li:not(:last-child){
+        margin-right: 15px !important;
+      }
+    }
+
+  @media only screen and (min-width: 1230px){
+    .primary-navigation > ul > li.site-logo, .primary-navigation > ul > li.right-logo-menu{
+             margin-right: 0px;
+          }
+
+    .header_style4 .site-navigation .nav-menu>li.right-logo-menu{
+      margin-right: 0px;
+    }
+    .header_style4 li.site-logo{ margin-right: 0px; }
+
+              .header_style4 .nav-menu:not(.no-margin)>li.left-logo-menu{ margin-right: 73px; }
+
+              .header_style4 .nav-menu:not(.no-margin)>li.right-logo-menu{ margin-left: 99.5px; }
+          }
+
+  @media only screen and (min-width: 641px) and (max-width: 1229px){
+    .header_style4 .site-navigation .nav-menu>li{
+      margin-right: 20px !important;
+      margin-left: 0px !important;
+    }
+  }
+
+        @media only screen and (max-width: 640px)
+  {
+    /*header padding for mobiles*/
+              }
+            #main-slideshow{
+        margin-bottom: 60px;
+      }
+
+  @media only screen and (min-width: 641px)
+  {
+    /*header padding for mobiles*/
+            header.site-header
+        {
+          padding-top: 15px;
+        }
+                    .footer-top-inner{
+        padding-top: 10px;
+      }
+                    #main-slideshow{
+      padding-top: 0px;
+    }
+
+                header.site-header
+      {
+        padding-bottom: 20px;
+      }
+    }
+
+
+
+  .primary-navigation ul li a:hover, .mobile-menu-inner ul li a:hover{
+    color:#000000			}
+  .primary-navigation > ul > li > a:hover, .mobile-menu-inner > ul > li > a:hover{
+    color:#000000			}
+  .primary-navigation ul li a, .mobile-menu-inner li a, .menu-toggle i:before, .menu-toggle span{
+    color:#000000			}
+  .primary-navigation ul li ul{
+    background: #f9f9f9			}
+  .site-header, body, .primary-navigation ul, .post-pagination .next-post .inner, .post-pagination .prev-post .inner{
+    background: #ffffff;
+  }
+  body, .post-title, .widget-title{
+    color: #464646;
+  }
+  .post-title .post-title-before{
+    color: #272727			}
+  .post-title .post-title-after{
+    color: #464646			}
+  .post-meta span a, .meta-wrap a, .meta-wrap:before, .pagination-wrapper .page-item, .pagination-wrapper .prev, .pagination-wrapper .next {
+    color: #3f3f3f			}
+
+  .widget_socialicons .social a,.content .social a{
+    color: #000;
+  }
+  .widget-title{
+    color: #000;
+  }
+  .widget{
+    color: #000;
+  }
+
+  .footer-bottom{
+    background: #ffffff			}
+  .footer-bottom, .footer-bottom a{
+    color: #000000			}
+  a{
+    color: #cccccc			}
+  .layout-width:before, .single-layout-width:before{
+    border-top: 1px solid #e9e9e9;
+  }
+  .footer-top-inner{
+    border-top: 1px solid #e9e9e9;
+    border-bottom: 1px solid #e9e9e9;
+  }
+
+
+
+          .post-article .post-article-inner
+    {
+      max-width: 650px;
+    }
+
+
+        @media screen and (min-width: 768px) {
+            .main-navigation .menu ul.children a{ font-size: -1px ; }
+        }
+
+.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}
