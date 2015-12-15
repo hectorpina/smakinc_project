@@ -4894,25 +4894,25 @@ p:empty {
 /* '' */
 @font-face {
   font-family: 'im-fell-french-canon-pro-regular';
-  src: url("../fonts/im-fell-french-canon-pro/IM_FELL_French_Canon_PRO_Roman.eot?#iefix") format("embedded-opentype"), url("../fonts/im-fell-french-canon-pro/IM_FELL_French_Canon_PRO_Roman.svg#IM_FELL_French_Canon_PRO_Roman") format("svg"), url("../fonts/im-fell-french-canon-pro/IM_FELL_French_Canon_PRO_Roman.otf") format("opentype"), url("../fonts/im-fell-french-canon-pro/IM_FELL_French_Canon_PRO_Roman.woff") format("woff"), url("../fonts/im-fell-french-canon-pro/IM_FELL_French_Canon_PRO_Roman.ttf") format("truetype");
+  /*src: url("../fonts/im-fell-french-canon-pro/IM_FELL_French_Canon_PRO_Roman.eot?#iefix") format("embedded-opentype"), url("../fonts/im-fell-french-canon-pro/IM_FELL_French_Canon_PRO_Roman.svg#IM_FELL_French_Canon_PRO_Roman") format("svg"), url("../fonts/im-fell-french-canon-pro/IM_FELL_French_Canon_PRO_Roman.otf") format("opentype"), url("../fonts/im-fell-french-canon-pro/IM_FELL_French_Canon_PRO_Roman.woff") format("woff"), url("../fonts/im-fell-french-canon-pro/IM_FELL_French_Canon_PRO_Roman.ttf") format("truetype");*/
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'im-fell-french-canon-pro-italic';
-  src: url("../fonts/im-fell-french-canon-pro/IM_FELL_French_Canon_PRO_Italic.eot?#iefix") format("embedded-opentype"), url("../fonts/im-fell-french-canon-pro/IM_FELL_French_Canon_PRO_Italic.svg#IM_FELL_French_Canon_PRO_Italic") format("svg"), url("../fonts/im-fell-french-canon-pro/IM_FELL_French_Canon_PRO_Italic.otf") format("opentype"), url("../fonts/im-fell-french-canon-pro/IM_FELL_French_Canon_PRO_Italic.woff") format("woff"), url("../fonts/im-fell-french-canon-pro/IM_FELL_French_Canon_PRO_Italic.ttf") format("truetype");
+  /*src: url("../fonts/im-fell-french-canon-pro/IM_FELL_French_Canon_PRO_Italic.eot?#iefix") format("embedded-opentype"), url("../fonts/im-fell-french-canon-pro/IM_FELL_French_Canon_PRO_Italic.svg#IM_FELL_French_Canon_PRO_Italic") format("svg"), url("../fonts/im-fell-french-canon-pro/IM_FELL_French_Canon_PRO_Italic.otf") format("opentype"), url("../fonts/im-fell-french-canon-pro/IM_FELL_French_Canon_PRO_Italic.woff") format("woff"), url("../fonts/im-fell-french-canon-pro/IM_FELL_French_Canon_PRO_Italic.ttf") format("truetype");*/
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'TrajanPro-Regular';
-  src: url("../fonts/trajan-pro/TrajanPro-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/trajan-pro/TrajanPro-Regular.otf") format("opentype"), url("../fonts/trajan-pro/TrajanPro-Regular.svg#TrajanPro-Regular") format("svg"), url("../fonts/trajan-pro/TrajanPro-Regular.woff") format("woff"), url("../fonts/trajan-pro/TrajanPro-Regular.ttf") format("truetype");
+  /*src: url("../fonts/trajan-pro/TrajanPro-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/trajan-pro/TrajanPro-Regular.otf") format("opentype"), url("../fonts/trajan-pro/TrajanPro-Regular.svg#TrajanPro-Regular") format("svg"), url("../fonts/trajan-pro/TrajanPro-Regular.woff") format("woff"), url("../fonts/trajan-pro/TrajanPro-Regular.ttf") format("truetype");*/
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'TrajanPro-Bold';
-  src: url("TrajanPro-Bold.eot?#iefix") format("embedded-opentype"), url("TrajanPro-Bold.ttf") format("truetype"), url("TrajanPro-Bold.svg#TrajanPro-Bold") format("svg"), url("TrajanPro-Bold.otf") format("opentype"), url("TrajanPro-Bold.woff") format("woff");
+  /*src: url("TrajanPro-Bold.eot?#iefix") format("embedded-opentype"), url("TrajanPro-Bold.ttf") format("truetype"), url("TrajanPro-Bold.svg#TrajanPro-Bold") format("svg"), url("TrajanPro-Bold.otf") format("opentype"), url("TrajanPro-Bold.woff") format("woff");*/
   font-weight: normal;
   font-style: normal;
 }
