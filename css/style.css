@@ -95,7 +95,7 @@ img { max-width: 100%; }
   left: 0;
   right: 0;
   bottom: 0;
-  /*background-color: #fff;*/
+  background-color: #fff;
   z-index: 999999;
 }
 #status {
@@ -106,7 +106,7 @@ img { max-width: 100%; }
   top: 50%;
   /*background-image: url(../images/loader.gif);*/
   /*background-repeat: no-repeat;*/
-  /*background-position: center center;*/
+  background-position: center center;
   text-align: center;
   margin: -40px 0 0 -100px;
 }
