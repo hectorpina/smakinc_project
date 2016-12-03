@@ -619,7 +619,7 @@ ul.portfolio-image li:hover {
 }
 ul.portfolio-image li:hover img {
   -webkit-filter: grayscale(20%);
-  transform: scale(1.15);
+  /*transform: scale(1.15);*/
 }
 ul.portfolio-image li:hover .image-bg {opacity: 1;}
 ul.portfolio-image li:hover .description-wrap {

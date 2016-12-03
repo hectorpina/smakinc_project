@@ -198,46 +198,46 @@
                 <!--PORTFOLIO IMAGE-->
                 <ul class="portfolio-image">
                   <li class="col-md-6">
-                    <a href="images/ahiaskelly5.jpg"><img alt="image" src="images/ahiaskelly4.jpg">
-                      <div class="decription-wrap">
+                    <a href="images/ahiaskelly5.jpg"><img alt="image" src="images/ahiaskelly5.jpg">
+                     <!-- <div class="decription-wrap">
                         <div class="image-bg">
-                           <!--<p class="desc">My Resume</p>-->
+                           <p class="desc">My Resume</p>
                         </div>
 
-                      </div>
+                      </div>-->
                     </a>
                   </li>
                   <li class="col-md-6">
-                    <a href="images/sarah-logo.png"><img alt="image" src="images/sarah-logo.png">
-                      <div class="decription-wrap">
+                    <a href="images/sarah-logo-yellow.png"><img alt="image" src="images/sarah-logo-yellow.png">
+                     <!-- <div class="decription-wrap">
                         <div class="image-bg">
-                          <!--<p class="desc">
+                          <p class="desc">
                             Pangirutan
-                          </p>-->
+                          </p>
                         </div>
-                      </div>
+                      </div>-->
                     </a>
                   </li>
                   <li class="col-md-6">
-                    <a href="images/hector-logo.jpg"><img alt="image" src="images/hector-logo.jpg">
-                      <div class="decription-wrap">
+                    <a href="images/hector-logo-blue-800v2.png"><img alt="image" src="images/hector-logo-blue-800v2.png">
+                      <!--<div class="decription-wrap">
                         <div class="image-bg">
-                          <!--<p class="desc">
+                          <p class="desc">
                             Black Mug
-                          </p>-->
+                          </p>
                         </div>
-                      </div>
+                      </div>-->
                     </a>
                   </li>
                   <li class="col-md-6">
-                    <a href="images/moiykei2.jpg"><img alt="image" src="images/moiykei.jpg">
-                      <div class="decription-wrap">
+                    <a href="images/moiykei2.jpg"><img alt="image" src="images/moiykei2.jpg">
+                     <!-- <div class="decription-wrap">
                         <div class="image-bg">
-                          <!--<p class="desc">
+                          <p class="desc">
                             Notebook Mockup
-                          </p>-->
+                          </p>
                         </div>
-                      </div>
+                      </div>-->
                     </a>
                   </li>
                   <!--<li class="col-md-6">
@@ -269,6 +269,9 @@
           </div>
         </section>
         <!--/.WORK END-->
+<section>
+<!--<video id="myvideo" src="images/kelly_ahias_short_1-1.mp4" controls></video>-->
+</section>
 
         <!--SERVICES-->
         <section class="white-bg" id="services">
@@ -914,7 +917,15 @@
       </div>
     <!--/.CONTENT-WRAP END-->
     </div>
-    
+
+    <script>
+    $('#myvideo').hover(function toggleControls() {
+    if (this.hasAttribute("controls")) {
+        this.removeAttribute("controls")
+    } else {
+        this.setAttribute("controls", "controls")
+    }
+})  </script>
 
     <script src="js/jquery-1.9.1.min.js" type="text/javascript"></script>
     <script src="js/jquery.appear.js" type="text/javascript"></script>
